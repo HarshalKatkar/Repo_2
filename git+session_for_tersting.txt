@@ -5,9 +5,9 @@ wide web.
 
 2.Web hosts are companies that provide space on a server leased for use bye clients as well as
 providing internet connectivity,typically in data center.
-
+                                                           
 source_control Managemnet-----Bitkeeper(company)
-
+  
 {vcs----Verion control system
 dvcs----Distributed version control system}
 
